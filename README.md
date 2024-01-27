@@ -22,7 +22,7 @@ indiquer dans le code dans les paramètres le chemin du fichier d'embeddings iss
 ## Execution du code
 Installez les librairies nécessaires: 
 ```sh
-"pip install -r requirements.txt"
+pip install -r requirements.txt
 ```
 
 Les fichiers .py sont équipés du test 
@@ -31,5 +31,5 @@ if __name__ == '__main__':
 ```
 Pour exécuter l'entraînement d'un des deux modèles, il suffit d'executer dans le terminal:
 ```sh
-"python <nom du fichier>"
+python <nom du fichier>
 ```
